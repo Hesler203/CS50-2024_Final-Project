@@ -9,7 +9,7 @@ Started
 
 ### Dependencies
 
-* Describe any prerequisites, 
+* To run , 
 libraries, 
 
 OS version,
