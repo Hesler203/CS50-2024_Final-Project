@@ -2,9 +2,7 @@
 # Dumpling's Big Poyo Adventure - 2D Game made in Godot4.3
 
 ### Video Demo: https://www.youtube.com/........... 
-### For CS50's 2024 Intro to Computer Science Final Project,
-this 2D Game features object-oriented programming, for-loops,
-recursive, and 
+### For CS50's 2024 Intro to Computer Science Final Project,this 2D Game features a Collecting/Survival Gameloop that relies on object-oriented programming, for-loops, conditionals, and dictionaries for its Functionality.
 
 
 Started
