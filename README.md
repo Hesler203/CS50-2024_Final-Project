@@ -1,14 +1,22 @@
 # CS50-2024_Final-Project
 Dumpling's Big Poyo Adventure - 2D Game made in Godot4+
 
+# Video Demo: https://www.youtube.com/........... 
+
 
 
 Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Describe any prerequisites, 
+libraries, 
+
+OS version,
+ 
+etc., needed before installing program.
+
+
 
 ### Installing
 
