@@ -2,8 +2,9 @@
 # Dumpling's Big Poyo Adventure - 2D Game made in Godot4.3
 
 ### Video Demo: https://www.youtube.com/........... 
-### This is a 2D game developed in Godot 4.3 w/ the help of my
-    Artistic Fiance and our 
+### For CS50's 2024 Intro to Computer Science Final Project,
+this 2D Game features object-oriented programming, for-loops,
+recursive, and 
 
 
 Started
